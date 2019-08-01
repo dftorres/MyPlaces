@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Places</string>
+    <string name="search">Search a place</string>
+    <string name="title_activity_navigation_drawer">Maps</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_my_places">My Places</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_preferences">Preferences</string>
+
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <string name="username">Username</string>
+    <string name="region">Region</string>
+    <string name="design">Design</string>
+    <string name="night_mode">Night mode</string>
+</resources>

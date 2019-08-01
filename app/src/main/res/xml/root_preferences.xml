@@ -1,0 +1,25 @@
+<androidx.preference.PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <EditTextPreference
+            app:key="username"
+            app:title="@string/username"
+            app:summary="Your username" />
+
+        <ListPreference
+            app:defaultValue="Ecuador"
+            app:entries="@array/region_entries"
+            app:entryValues="@array/region_values"
+            app:key="region"
+            app:title="@string/region"
+            app:summary="Your country"/>
+
+    <PreferenceCategory app:title="@string/design">
+
+        <SwitchPreferenceCompat
+            app:key="night_mode"
+            app:title="@string/night_mode"
+            app:summary="Set your design to dark theme"/>
+
+    </PreferenceCategory>
+
+</androidx.preference.PreferenceScreen>

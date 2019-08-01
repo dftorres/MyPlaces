@@ -1,0 +1,11 @@
+<resources>
+    <string-array name="region_entries">
+        <item>Ecuador</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="region_values">
+        <item>ecuador</item>
+        <item>other</item>
+    </string-array>
+</resources>
